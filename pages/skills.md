@@ -14,6 +14,7 @@
 ## Programming languages
 
 - Python
+- html-CSS
 - JavaScript/TypeScript
   - React.js
   - Vue.js
